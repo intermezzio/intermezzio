@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello!
 
+My name is Andrew and I'm an electrical and computer engineer at Olin College of Engineering.
+I like to make exciting, practical projects which you can find here!
+
+![My Profile Stats](https://github-profile-trophy.vercel.app/?username=intermezzio&theme=nord&no-frame=true)
 <!--
 **intermezzio/intermezzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
