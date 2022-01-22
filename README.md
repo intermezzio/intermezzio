@@ -3,7 +3,7 @@
 My name is Andrew and I'm an electrical and computer engineer at Olin College of Engineering.
 I like to make exciting, practical projects which you can find here!
 
-![My GitHub Profile Stats](https://github-profile-trophy.vercel.app/?username=intermezzio&no-frame=true)
+![My GitHub Profile Stats](https://github-profile-trophy.vercel.app/?username=intermezzio&column=8&no-frame=true)
 
 ![My StackOverflow Profile Stats](https://stackexchange.com/users/flair/17817750.png)
 <!--
